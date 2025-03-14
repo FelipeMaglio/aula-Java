@@ -1,6 +1,6 @@
 public class TesteLivro {
     public static void main(String[] args) {
-        Livro meuLivro = new Livr ();
+        Livro meuLivro = new Livro ();
         meuLivro.titulo = "UML 2";
         meuLivro.autor = "Gilleanes Guedes";
         meuLivro.editora = "novatec";
